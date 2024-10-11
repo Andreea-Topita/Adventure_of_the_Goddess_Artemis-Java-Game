@@ -1,5 +1,4 @@
-# Adventure of the Goddess Artemis
-## Instrucțiuni de utilizare
-1.abc
-
-## test din visual studio code 
+### Adventure of the Goddess Artemis
+Adventure of the Goddess Artemis is a 2D single-player action-adventure game developed as part of the Object-Oriented Application Design course. In this game, the player controls the protagonist, Goddess Artemis, as she embarks on a quest to rescue her twin brother Apollo from the clutches of the war god Ares. The game is built with Object-Oriented Programming (OOP) principles, and various design patterns, and integrates core mechanics like combat and exploration across multiple levels.
+## Object-Oriented Design: 
+The game's architecture is designed using OOP principles to ensure modularity, reusability, and scalability.
