@@ -22,3 +22,4 @@ There are 3 different levels, each with unique enemies, maps, and objects:
 
 **SQLite:** A simple database is integrated to store key player data, including: ID, Username, Time Played, Score. Additionally, the game has a "Load Game" feature, allowing players to continue from the exact point where they saved, retaining the same amount of coins and health (lives). 
 
+![Screenshot of the game](java_game.png)
