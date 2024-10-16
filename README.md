@@ -2,7 +2,7 @@
  Adventure of the Goddess Artemis is a 2D single-player action-adventure game developed as part of the Object-Oriented Application Design course.  In this game, the player controls the protagonist, Goddess Artemis, as she sets out to rescue her twin brother Apollo from the war god Ares. The game is built with Object-Oriented Programming (OOP) principles, and various design patterns. It incorporates combat, exploration of different levels, and interactions with various objects, including enemies and environmental elements.
 ## Object-Oriented Design: 
 The game's architecture is designed using OOP principles to ensure modularity, reusability, and scalability.
-### Design Patterns Used: 
+## Design Patterns Used: 
 **Singleton Pattern:** Ensures that only one instance of critical game objects like the Hero exists at any given time.
 
 **Factory Pattern:** Used to dynamically create game items and enemies (e.g., ItemFactory, EnemyFactory).
